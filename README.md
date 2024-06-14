@@ -43,3 +43,12 @@ The LinkedIn Automation Project is designed to automate the process of sending c
 2. Run the script to send connection requests.
 
 3. The script will load the saved cookies and automatically send connection requests to the profiles listed in `profiles.txt`.
+
+
+
+
+
+
+https://github.com/Yashica-29/LinkedIn-Connection-Automator/assets/98029814/21971b37-bed7-40a2-b39c-013c0be8fbe8
+
+
